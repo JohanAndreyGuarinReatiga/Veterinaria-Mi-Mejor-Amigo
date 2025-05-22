@@ -1,18 +1,32 @@
-## Diseño UML E-R
+## UML E-R Design
 ![alt text](image.png)
 ---
 
-## Pasos para ejecutar el proyecto
+## Steps to Run the Project
 
-### 1. Crear la base de datos y las tablas (`estructura.sql`)
+### 1. Create the Database and Tables (`estructura.sql`)
 
-- AbrIR `estructura.sql`
-- Conectar en la base de datos con una extension en caso de ser en visual 
-- Correr el codigo
+- Open `estructura.sql`
+- Connect to the database using an extension (e.g., in Visual Studio Code)
+- Run the code
 
-Esto:
-- Elimina la base de datos si existe
-- Crea la base `Veterinaria`
-- Define todas las tablas y relaciones
+This will:
+- Drop the database if it exists
+- Create the `Veterinaria` database
+- Define all tables and relationships
 
+---
+### 2. Insert Sample Data (`datos.sql`)
+
+- Open `datos.sql`
+- Execute the entire file
+
+This will add:
+- 5 Owners
+- 10 Pets
+- 5 Services
+- 10 Visits
+- 5 Treatments
+- 5 Payments
+- 5 Appointments
 ---
