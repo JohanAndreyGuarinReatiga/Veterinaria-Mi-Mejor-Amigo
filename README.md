@@ -30,3 +30,19 @@ This will add:
 - 5 Payments
 - 5 Appointments
 ---
+
+### 3. Query Data (`consultas.sql`)
+
+- Open `consultas.sql`
+- Run each query one by one or execute the entire file
+
+You will see:
+- Queries using functions, aliases, and subqueries
+- Grouping, rounding, concatenations, etc.
+- Creation of a table from a query
+
+💡 If you don't see any results:
+- Make sure you are connected
+- Open the results panel
+- Check the **"OUTPUT"** or **"RESULTS"** tab at the bottom depending where youre running the queries
+---
