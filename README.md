@@ -46,3 +46,6 @@ You will see:
 - Open the results panel
 - Check the **"OUTPUT"** or **"RESULTS"** tab at the bottom depending where youre running the queries
 ---
+
+### 4. Explication
+https://drive.google.com/file/d/1dlyiR04_PYm1vd7JuGYt_twpjdpDeRHK/view?usp=sharing 
